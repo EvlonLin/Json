@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "5cec505ee2840ef627302b04",
+    "name": "Lorem ipsum dolor sit amet, consectetur?",
+    "category": "Funds"
+  },
+  {
+    "_id": "5cec505e3944e747185a3af8",
+    "name": "Lorem ipsum dolor sit amet, consectetur?",
+    "category": "Funds"
+  },
+  {
+    "_id": "5cec505eb9a011b52a0e22ec",
+    "name": "Harrington Gamble",
+    "category": "Funds"
+  },
+  {
+    "_id": "5cec505e2dfa55431de6f6cb",
+    "name": "Katie Nielsen",
+    "category": "Application"
+  },
+  {
+    "_id": "5cec505ec5ff20a5478e4a35",
+    "name": "Gutierrez Anthony",
+    "category": "Application"
+  },
+  {
+    "_id": "5cec505e045f64029b92a5f9",
+    "name": "Lorem ipsum dolor sit amet, consectetur?",
+    "category": "Application"
+  },
+  {
+    "_id": "5cec505e36ac675e295578b4",
+    "name": "Lorem ipsum dolor sit amet, consectetur?",
+    "category": "Application"
+  }
+]
